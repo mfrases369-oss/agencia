@@ -1,0 +1,672 @@
+Uri: https://d335luupugsy2.cloudfront.net/js/loader-scripts/65f21e58-6999-40e8-9497-a3581fbc1153-loader.js?ver=6.8.3
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\js\loader-scripts\65f21e58-6999-40e8-9497-a3581fbc1153-loader.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/agencia-de-trafego-pago/
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\agencia-de-trafego-pago\index-1.htm
+Content Type: text/html
+
+Uri: https://lp.colinatech.com.br/agencia-de-trafego-pago/?utm_source=google_ads&utm_campaign=search_performance&utm_medium=cpc&utm_adset=performance-exatas&utm_content=AD02-Agencia-em-Natal&utm_term=agência de tráfego pago&campaign_id=20024896029&adset_id=179101101261&ad_id=774268332471&gad_source=1&gad_campaignid=20024896029&gbraid=0AAAAADHWxpO0D4BmWjymqN46sDYzBd9pg&gclid=CjwKCAjwxfjGBhAUEiwAKWPwDrm0c1771AFHDtWwANkxz2X3sYnK3iefnysH-nfcwNQH-8ypn_KFyRoCbkQQAvD_BwE
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\agencia-de-trafego-pago\index.htm
+Content Type: text/html
+
+Uri: https://lp.colinatech.com.br/comments/feed/
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://lp.colinatech.com.br/feed/
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1755083798
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\complianz-gdpr\assets\css\cookieblocker.min.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.31.2
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor-pro\assets\css\widget-nav-menu.min.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor-pro/assets/css/widget-nested-carousel.min.css?ver=3.31.2
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor-pro\assets\css\widget-nested-carousel.min.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.31.2
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.31.2
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.31.2
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.32.0
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.32.0
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/css/widget-counter.min.css?ver=3.32.0
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\css\widget-counter.min.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.32.0
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.32.0
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.32.0
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.32.0
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.32.0
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\css\widget-image-carousel.min.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.32.0
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/css/widget-nested-tabs.min.css?ver=3.32.0
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\css\widget-nested-tabs.min.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.32.0
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.32.0
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.32.0
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css?ver=3.32.0
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInDown.min.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=3.32.0
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInLeft.min.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css?ver=3.32.0
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInRight.min.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.32.0
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInUp.min.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\elementor\assets\lib\swiper\v8\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/handl-utm-grabber/js/handl-utm-grabber.js?ver=6.8.3
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\handl-utm-grabber\js\handl-utm-grabber.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/handl-utm-grabber/js/js.cookie.js?ver=6.8.3
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\handl-utm-grabber\js\js.cookie.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/wp-rocket/assets/img/youtube.png
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\wp-rocket\assets\img\youtube.png
+Content Type: image/png
+
+Uri: https://lp.colinatech.com.br/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\plugins\wp-rocket\assets\js\lazyload\17.8.3\lazyload.min.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\themes\hello-elementor\assets\css\header-footer.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\themes\hello-elementor\assets\css\reset.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.4
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\themes\hello-elementor\assets\css\theme.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.4
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\themes\hello-elementor\assets\js\hello-frontend.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/abila.png
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\abila.png
+Content Type: image/png
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/daniel.png
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\daniel.png
+Content Type: image/png
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/h1-after.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\h1-after.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/img-banner-300x297.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\img-banner-300x297.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/img-banner.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\img-banner.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/itor.png
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\itor.png
+Content Type: image/png
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/leandro.png
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\leandro.png
+Content Type: image/png
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/logo-colina-footer.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\logo-colina-footer.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/Plein-Bold.eot
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\Plein-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/Plein-Bold.eot?
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\Plein-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/Plein-Bold.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\Plein-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/Plein-Bold.ttf
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\Plein-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/Plein-Bold.woff
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\Plein-Bold.woff
+Content Type: font/woff
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/Plein-Bold.woff2
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\Plein-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/Plein-Medium.eot
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\Plein-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/Plein-Medium.eot?
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\Plein-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/Plein-Medium.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\Plein-Medium.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/Plein-Medium.ttf
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\Plein-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/Plein-Medium.woff
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\Plein-Medium.woff
+Content Type: font/woff
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/Plein-Medium.woff2
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\Plein-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/Plein-Regular.eot
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\Plein-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/Plein-Regular.eot?
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\Plein-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/Plein-Regular.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\Plein-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/Plein-Regular.ttf
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\Plein-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/Plein-Regular.woff
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\Plein-Regular.woff
+Content Type: font/woff
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/01/Plein-Regular.woff2
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\01\Plein-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/after-consultoria-02.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\after-consultoria-02.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/after-conteudo.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\after-conteudo.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/after-migracao.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\after-migracao.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/bg-card.png
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\bg-card.png
+Content Type: image/png
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/bg-vomparacao.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\bg-vomparacao.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/cliente-01.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\cliente-01.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/cliente-02.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\cliente-02.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/cliente-03.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\cliente-03.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/cliente-04.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\cliente-04.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/cliente-05.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\cliente-05.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/cliente-06.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\cliente-06.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/cliente-07.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\cliente-07.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/cliente-08.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\cliente-08.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/cliente-09.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\cliente-09.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/cliente-10.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\cliente-10.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/cliente-11.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\cliente-11.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/cliente-12.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\cliente-12.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/cliente-13.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\cliente-13.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/cliente-14.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\cliente-14.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/cliente-15.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\cliente-15.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/cliente-16.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\cliente-16.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/cliente-17.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\cliente-17.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/cliente-18.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\cliente-18.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/gif-01.gif
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\gif-01.gif
+Content Type: image/gif
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/gif-02-att.gif
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\gif-02-att.gif
+Content Type: image/gif
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/gif-03.gif
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\gif-03.gif
+Content Type: image/gif
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/icon-grafics-form.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\icon-grafics-form.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/icon-grafics-planejamento.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\icon-grafics-planejamento.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/icon-stars.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\icon-stars.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/img-after-hero-03-1-300x125.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\img-after-hero-03-1-300x125.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/img-after-hero-03-1.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\img-after-hero-03-1.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/img-after-hero-03-300x125.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\img-after-hero-03-300x125.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/img-after-hero-03.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\img-after-hero-03.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/img-mapa-300x150.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\img-mapa-300x150.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/img-mapa.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\img-mapa.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/img-servicos-01-204x300.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\img-servicos-01-204x300.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/img-servicos-01.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\img-servicos-01.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/img-servicos-03-204x300.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\img-servicos-03-204x300.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/img-servicos-03.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\img-servicos-03.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/img-servicos-04-204x300.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\img-servicos-04-204x300.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/img-servicos-04.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\img-servicos-04.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/img-servicos-06-204x300.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\img-servicos-06-204x300.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/img-servicos-06.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\img-servicos-06.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/img-servicos-07-204x300.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\img-servicos-07-204x300.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/img-servicos-07.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\img-servicos-07.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/img-users.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\img-users.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/logo-google.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\logo-google.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/logo-header.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\logo-header.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/logo_verde-colina.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\logo_verde-colina.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/X-1.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\X-1.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/04/X.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\04\X.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/05/cropped-favicon-180x180.png
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\05\cropped-favicon-180x180.png
+Content Type: image/png
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/05/cropped-favicon-192x192.png
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\05\cropped-favicon-192x192.png
+Content Type: image/png
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/05/cropped-favicon-32x32.png
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\05\cropped-favicon-32x32.png
+Content Type: image/png
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/after-google-ads.webp
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\after-google-ads.webp
+Content Type: image/webp
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/Frame-1321317943.png
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\Frame-1321317943.png
+Content Type: image/png
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/Frame-1321317965.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\Frame-1321317965.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/Frame-1321318410.png
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\Frame-1321318410.png
+Content Type: image/png
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/Graphic-Elemnets.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\Graphic-Elemnets.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/Group-1171274009.png
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\Group-1171274009.png
+Content Type: image/png
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/Group-233.png
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\Group-233.png
+Content Type: image/png
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/icon-active.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\icon-active.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/icon-beAnalytic.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\icon-beAnalytic.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/icon-educa.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\icon-educa.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/icon-linkedin.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\icon-linkedin.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/icon-meta.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\icon-meta.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/icon-pinterest.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\icon-pinterest.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/icon-spotify.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\icon-spotify.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/icon-tiktok.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\icon-tiktok.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/icon-trafego-02.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\icon-trafego-02.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/icon-trafego-03.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\icon-trafego-03.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/icon-trafego-05.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\icon-trafego-05.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/icon-trafego-06.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\icon-trafego-06.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/icon-X.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\icon-X.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/logo-az-1.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\logo-az-1.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/logo-google.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\logo-google.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/logo-iskisita.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\logo-iskisita.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/logo-munidal.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\logo-munidal.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/logo-pulse.svg
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\logo-pulse.svg
+Content Type: image/svg+xml
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/M332954-01-1-300x244.png
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\M332954-01-1-300x244.png
+Content Type: image/png
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/2025/06/M332954-01-1.png
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\2025\06\M332954-01-1.png
+Content Type: image/png
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/elementor/css/post-1604.css?ver=1759428362
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\elementor\css\post-1604.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/elementor/css/post-2099.css?ver=1759428339
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\elementor\css\post-2099.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/elementor/css/post-2106.css?ver=1759280964
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\elementor\css\post-2106.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/elementor/css/post-2143.css?ver=1759280966
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\elementor\css\post-2143.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/elementor/css/post-2156.css?ver=1759280971
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\elementor\css\post-2156.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/elementor/css/post-306.css?ver=1759280954
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\elementor\css\post-306.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/elementor/css/post-6.css?ver=1759280951
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-content/uploads/elementor/google-fonts/css/inter.css?ver=1747243213
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-content\uploads\elementor\google-fonts\css\inter.css
+Content Type: text/css
+
+Uri: https://lp.colinatech.com.br/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://lp.colinatech.com.br/wp-json/
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://lp.colinatech.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Flp.colinatech.com.br%2Fagencia-de-trafego-pago%2F
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://lp.colinatech.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Flp.colinatech.com.br%2Fagencia-de-trafego-pago%2F&format=xml
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://lp.colinatech.com.br/wp-json/wp/v2/pages/2099
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\wp-json\wp\v2\pages\2099
+Content Type: application/json
+
+Uri: https://lp.colinatech.com.br/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\lp.colinatech.com.br\xmlrpc.php
+Content Type: text/xml
+
