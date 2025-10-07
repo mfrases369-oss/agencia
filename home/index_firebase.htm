@@ -112,9 +112,7 @@
 </head>
 <body data-rsssl="1" class="wp-singular page-template-default page page-id-2099 wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-2099">
 
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WMB8NZK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+
 
 <a class="skip-link screen-reader-text" href="#content">Ir para o conteúdo</a>
 
@@ -3008,6 +3006,33 @@ document.addEventListener("DOMContentLoaded", function (event) {
 
 
 </script> -->
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  function initCarousels() {
+    if (typeof Swiper === "undefined") {
+      console.warn("Swiper não encontrado");
+      return;
+    }
+
+    document.querySelectorAll(".swiper").forEach((swiperEl, i) => {
+      if (swiperEl.swiper) swiperEl.swiper.destroy(true, true);
+      swiperEl.swiper = new Swiper(swiperEl, {
+        loop: true,
+        autoplay: { delay: 3000, disableOnInteraction: false },
+        speed: 600,
+        slidesPerView: "auto",
+        pagination: { el: swiperEl.querySelector(".swiper-pagination"), clickable: true },
+      });
+    });
+  }
+
+  // Inicializa no load e reexecuta ao recarregar a página
+  initCarousels();
+  window.addEventListener("load", initCarousels);
+});
+</script>
+
 
 <script>
 	jQuery(document).ready(function($) {
