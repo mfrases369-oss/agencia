@@ -3084,6 +3084,147 @@ document.addEventListener("DOMContentLoaded", () => {
 	});
 </script>
 
+<script>
+(function () {
+  // ----------------------------------------
+  // CONFIGURAÇÃO
+  // ----------------------------------------
+  var AUTOPLAY_DELAY = 2500; // 2.5s
+  var DEBOUNCE_MS = 300; // evita reinits repetidos rapidamente
+
+  // ----------------------------------------
+  // HELPERS
+  // ----------------------------------------
+  function debounce(fn, wait) {
+    var t;
+    return function () {
+      clearTimeout(t);
+      t = setTimeout(function () { fn(); }, wait);
+    };
+  }
+
+  function isElementVisible(el) {
+    if (!el) return false;
+    return el.offsetParent !== null;
+  }
+
+  // ----------------------------------------
+  // FUNÇÕES DE INICIALIZAÇÃO — adapte conforme lib
+  // ----------------------------------------
+  // Exemplo: Swiper
+  function initSwipers() {
+    try {
+      if (typeof Swiper === 'undefined') return;
+      // procura elementos que ainda não foram inicializados
+      document.querySelectorAll('.swiper:not([data-swiper-initialized])').forEach(function (el) {
+        if (!isElementVisible(el)) return;
+        var my = new Swiper(el, {
+          loop: true,
+          autoplay: { delay: AUTOPLAY_DELAY, disableOnInteraction: false },
+          // adicione outras configs aqui conforme seu projeto
+        });
+        // marca como inicializado
+        el.setAttribute('data-swiper-initialized', 'true');
+      });
+    } catch (e) { console.warn('initSwipers erro', e); }
+  }
+
+  // Exemplo: Slick
+  function initSlicks() {
+    try {
+      if (typeof jQuery === 'undefined' || typeof jQuery.fn.slick === 'undefined') return;
+      jQuery('.slick-slider').each(function () {
+        var $t = jQuery(this);
+        if ($t.hasClass('slick-initialized')) return;
+        if (!$t.is(':visible')) return;
+        $t.slick({
+          autoplay: true,
+          autoplaySpeed: AUTOPLAY_DELAY,
+          dots: true,
+          arrows: true
+        });
+      });
+    } catch (e) { console.warn('initSlicks erro', e); }
+  }
+
+  // Fallback genérico: re-executa possíveis scripts inline que dependem de DOM pronto
+  function runInlineInitHooks() {
+    // Se você tem funções globais de init, adicione elas aqui:
+    // if (typeof window.myCustomInit === 'function') window.myCustomInit();
+  }
+
+  // Centraliza todas inicializações
+  var runAllInits = debounce(function () {
+    initSwipers();
+    initSlicks();
+    runInlineInitHooks();
+  }, DEBOUNCE_MS);
+
+  // ----------------------------------------
+  // Observador de DOM — reinit quando elementos aparecem
+  // ----------------------------------------
+  var observer = new MutationObserver(function (mutations) {
+    // se algo relevante mudou, re-inicializa (debounced)
+    runAllInits();
+  });
+
+  function startObserver() {
+    try {
+      observer.observe(document.documentElement || document.body, {
+        childList: true,
+        subtree: true,
+        attributes: false
+      });
+    } catch (e) { console.warn('observer erro', e); }
+  }
+
+  // ----------------------------------------
+  // Tratamento para navegação SPA/AJAX
+  // ----------------------------------------
+  (function patchHistory() {
+    var push = history.pushState;
+    history.pushState = function () {
+      push.apply(history, arguments);
+      setTimeout(runAllInits, 50); // pequena pausa para o DOM atualizar
+    };
+    window.addEventListener('popstate', function () { setTimeout(runAllInits, 50); });
+  })();
+
+  // ----------------------------------------
+  // UNREGISTER SERVICE WORKER (opcional, se tiver SW atrapalhando deploys/recargas)
+  // ----------------------------------------
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.getRegistrations().then(function (regs) {
+      regs.forEach(function (r) {
+        // comente a linha abaixo se não quiser remover o SW
+        // r.unregister().then(function() { console.log('Service worker desregistrado'); });
+      });
+    }).catch(function(){});
+  }
+
+  // ----------------------------------------
+  // Roda quando DOM estiver pronto + onload
+  // ----------------------------------------
+  function onReady() {
+    runAllInits();
+    startObserver();
+    // também re-run no load completo
+    window.addEventListener('load', runAllInits);
+  }
+
+  if (document.readyState === 'complete' || document.readyState === 'interactive') {
+    setTimeout(onReady, 0);
+  } else {
+    document.addEventListener('DOMContentLoaded', onReady);
+  }
+
+  // ----------------------------------------
+  // LOG ÚTIL (remova se quiser)
+  // ----------------------------------------
+  console.log('[InitGuard] inicializador ativo — debounce', DEBOUNCE_MS, 'autoplay', AUTOPLAY_DELAY + 'ms');
+})();
+</script>
+
 
 <!-- Firebase Firestore Integration -->
 <script type="module">
