@@ -3115,8 +3115,17 @@ document.addEventListener("DOMContentLoaded", function (event) {
 <!-- Swiper Core -->
 <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
 
+<!-- Swiper Core -->
+<script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+
 <script>
-document.addEventListener("DOMContentLoaded", function () {
+window.addEventListener("load", function () {
+
+  function isVisible(el) {
+    if (!el) return false;
+    const rect = el.getBoundingClientRect();
+    return rect.width > 0 && rect.height > 0;
+  }
 
   function initAllSwipers() {
     if (window._mySwipers) {
@@ -3127,6 +3136,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // --- Carrossel de LOGOS (rolagem contínua automática) ---
     document.querySelectorAll(".elementor-image-carousel.swiper").forEach(el => {
       if (el.classList.contains("swiper-initialized")) return;
+      if (!isVisible(el)) return; // só inicia se o elemento realmente estiver visível
 
       const swiper = new Swiper(el, {
         loop: true,
@@ -3154,6 +3164,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // --- Carrossel do FORMULÁRIO ---
     document.querySelectorAll(".swiper-form .swiper").forEach(el => {
       if (el.classList.contains("swiper-initialized")) return;
+      if (!isVisible(el)) return;
 
       const swiper = new Swiper(el, {
         loop: true,
@@ -3173,12 +3184,19 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-  // Inicializa quando tudo estiver pronto
-  setTimeout(initAllSwipers, 800);
+  // Inicializa após o load completo (melhor compatibilidade mobile)
+  setTimeout(initAllSwipers, 1000);
+
+  // Recria carrosséis quando o tamanho da tela muda (mobile/tablet)
+  window.addEventListener("resize", () => setTimeout(initAllSwipers, 800));
+  window.addEventListener("orientationchange", () => setTimeout(initAllSwipers, 800));
+
+  // Observa o DOM para casos de recarregamento dinâmico
   const obs = new MutationObserver(() => setTimeout(initAllSwipers, 800));
   obs.observe(document.body, { childList: true, subtree: true });
 });
 </script>
+
 
 
 </body>
