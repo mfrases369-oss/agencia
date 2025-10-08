@@ -3115,6 +3115,71 @@ document.addEventListener("DOMContentLoaded", function (event) {
 <!-- Swiper Core -->
 <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  function initAllSwipers() {
+    if (window._mySwipers) {
+      window._mySwipers.forEach(sw => { try { sw.destroy(true, true); } catch(e){} });
+    }
+    window._mySwipers = [];
+
+    // --- Carrossel de LOGOS (rolagem contínua automática) ---
+    document.querySelectorAll(".elementor-image-carousel.swiper").forEach(el => {
+      if (el.classList.contains("swiper-initialized")) return;
+
+      const swiper = new Swiper(el, {
+        loop: true,
+        slidesPerView: 6,
+        spaceBetween: 20,
+        speed: 5000,
+        allowTouchMove: false,
+        grabCursor: false,
+        autoplay: {
+          delay: 0,
+          disableOnInteraction: false
+        },
+        breakpoints: {
+          1024: { slidesPerView: 6 },
+          768: { slidesPerView: 3 },
+          480: { slidesPerView: 2 }
+        },
+        observer: true,
+        observeParents: true
+      });
+
+      window._mySwipers.push(swiper);
+    });
+
+    // --- Carrossel do FORMULÁRIO ---
+    document.querySelectorAll(".swiper-form .swiper").forEach(el => {
+      if (el.classList.contains("swiper-initialized")) return;
+
+      const swiper = new Swiper(el, {
+        loop: true,
+        slidesPerView: 1,
+        spaceBetween: 10,
+        speed: 600,
+        pagination: {
+          el: el.parentElement.querySelector(".swiper-pagination"),
+          clickable: true,
+        },
+        autoplay: false,
+        observer: true,
+        observeParents: true,
+      });
+
+      window._mySwipers.push(swiper);
+    });
+  }
+
+  // Inicializa quando tudo estiver pronto
+  setTimeout(initAllSwipers, 800);
+  const obs = new MutationObserver(() => setTimeout(initAllSwipers, 800));
+  obs.observe(document.body, { childList: true, subtree: true });
+});
+</script>
+ 
 <!-- Swiper Core -->
 <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
 
@@ -3196,7 +3261,6 @@ window.addEventListener("load", function () {
   obs.observe(document.body, { childList: true, subtree: true });
 });
 </script>
-
 
 
 </body>
