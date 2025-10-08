@@ -3022,33 +3022,6 @@ document.addEventListener("DOMContentLoaded", function (event) {
 </script> -->
 
 <script>
-document.addEventListener("DOMContentLoaded", () => {
-  function initCarousels() {
-    if (typeof Swiper === "undefined") {
-      console.warn("Swiper não encontrado");
-      return;
-    }
-
-    document.querySelectorAll(".swiper").forEach((swiperEl, i) => {
-      if (swiperEl.swiper) swiperEl.swiper.destroy(true, true);
-      swiperEl.swiper = new Swiper(swiperEl, {
-        loop: true,
-        autoplay: { delay: 3000, disableOnInteraction: false },
-        speed: 600,
-        slidesPerView: "auto",
-        pagination: { el: swiperEl.querySelector(".swiper-pagination"), clickable: true },
-      });
-    });
-  }
-
-  // Inicializa no load e reexecuta ao recarregar a página
-  initCarousels();
-  window.addEventListener("load", initCarousels);
-});
-</script>
-
-
-<script>
 	jQuery(document).ready(function($) {
 			function adjustMenuAnchorScroll() {
 					$('a[href*="#"]').on('click', function(e) {
