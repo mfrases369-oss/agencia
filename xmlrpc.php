@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://lp.colinatech.com.br</homePageLink>
+		<homePageLink>https://www.midvox.com.br</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://lp.colinatech.com.br/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://lp.colinatech.com.br/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://lp.colinatech.com.br/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://lp.colinatech.com.br/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://lp.colinatech.com.br/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://www.midvox.com.br/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://www.midvox.com.br/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://www.midvox.com.br/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://www.midvox.com.br/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://www.midvox.com.br/wp-json/" />
 			</apis>
 	</service>
 </rsd>
